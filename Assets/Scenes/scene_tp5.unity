@@ -239,7 +239,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   transformPlayer: {fileID: 386838612}
-  margin: {x: 18, y: 11.84}
+  margin: {x: 8.1, y: 11.84}
   smoothed: {x: 0, y: 0}
   limitsForeground: {fileID: 1192592450}
 --- !u!4 &543405791 stripped
